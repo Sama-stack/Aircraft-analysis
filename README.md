@@ -7,7 +7,7 @@ They are interested in purchasing and operating airplanes for commercial and pri
 Determining which aircraft are the lowest risk for the company to start this new business endeavor. Translate the findings into actionable insights that the head of the new aviation division can use to help decide which aircraft to purchase.
 
 ## Data
-This dataset is from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+This dataset is from the National Transportation Safety Board that consists of aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
 
 ## Methods
  This project deals with missing values, how to aggregate the data, and how to visualize it in an interactive dashboard.
