@@ -33,6 +33,11 @@ Data-Driven Decisions: Continue tracking and analyzing accident data regularly t
  # Next steps
 Further Analysis: Investigate additional features like engine type, pilot experience, and flight purpose to further refine safety recommendations![image](https://github.com/user-attachments/assets/fafc0fe8-bb52-4a2b-b9e0-3fb89af9dca8)
 
+# More Details
+For more visualization, please review my presentation by visiting this link:
+https://public.tableau.com/app/profile/brenda.chemutai/viz/PP1_17324093131150/Dashboard1?publish=yes
+
+
 
 
 
